@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshraj574
 - 👀 I’m interested in MACHINE LEARNING
-- 🌱 I’m currently learning DATA SCIENCE/AI
+- 🌱 I’m currently learning DATA SCIENCE/MACHINE LEARNING
 - 📫 KIIT UNIVERSITY
 
 <!---
